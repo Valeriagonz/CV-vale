@@ -1,0 +1,67 @@
+
+.center-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%; 
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); 
+}
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background: linear-gradient(to bottom right, #adad9f, #add8e6);
+}
+
+h1 {
+    text-align: center;
+}
+h4 {
+    text-align: center;
+}
+
+
+section {
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.encabezado {
+    background-color: #8e6cec; 
+    color: white; 
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.experiencia-laboral, .educacion, .habilidades {
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.informacion-contacto {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    background-color: #8e6cec;
+    padding: 10px;
+    border: 1px solid #ebe7e7;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(223, 106, 106, 0.1);
+    text-align: center;
+}
